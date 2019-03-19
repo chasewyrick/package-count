@@ -16,6 +16,7 @@
 -(NSString *)label;
 -(NSString *)origin;
 -(NSString *)host;
+-(NSString *)name;
 
 @end
 
